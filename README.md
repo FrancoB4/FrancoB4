@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @FrancoB4, I'm 21 years old and I'm Argentine.
+- 👋 Hi, I'm @FrancoB4, I'm 22 years old and I'm Argentine.
 - 👀 I’m interested in IA, Game Development and Big Data.
 - 🌱 I’m currently learning Sistems Engineering, Machine Learning Engineering and Data Science.
 - 💞️ I’m looking to collaborate on small projects about my interests areas.

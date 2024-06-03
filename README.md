@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @FrancoB4, I'm 22 years old and I'm Argentine.
+- 👋 Hi, I'm @FrancoB4, I'm 22 years old and I'm Argentinian.
 - 👀 I’m interested in IA, Game Development and Big Data.
 - 🌱 I’m currently learning Sistems Engineering, Machine Learning Engineering and Data Science.
 - 💞️ I’m looking to collaborate on small projects about my interests areas.
-- 📫 Contat: francobonfigliovazquez@gmail.com or +5493513875576
+- 📫 Contact: francobonfigliovazquez@gmail.com or +5493513875576
 
 <!---
 FrancoB4/FrancoB4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
